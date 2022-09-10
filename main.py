@@ -1,8 +1,8 @@
 #from __future__ import barry_as_FLUFL
 #from msilib.schema import Condition
-import streamlit as st
-import numpy as np
-import pandas as pd
+#import streamlit as st
+#import numpy as np
+#import pandas as pd
 import time
 
 st.title('Streamlit 超入門')
